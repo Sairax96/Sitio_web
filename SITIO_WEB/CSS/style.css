@@ -4,10 +4,28 @@ margin: 0em;
 .cover{
 
     height: 400px;
-    background-image: url("C:/Users/LAB-E/Desktop/SITIO_WEB/img/portada.jpeg");
+    background-image: url("../img/portada.jpeg");
     color: white;
     background-size: cover;
     background-position: center;
     background-color: rgb(0, 0, 0, 0.5);
     background-blend-mode: darken;
 } 
+
+ .cover-small{
+    height: 200px;
+    background-blend-mode: normal;
+ }
+
+ .card {
+
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+ }
+
+ .card-tittle {
+
+    font-family: "dancing script" , cursive;
+    min-height: 3rem;
+ }
+
+ 
