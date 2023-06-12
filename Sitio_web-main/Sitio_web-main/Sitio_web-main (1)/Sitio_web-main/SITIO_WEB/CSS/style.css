@@ -1,0 +1,13 @@
+body{
+margin: 0em;
+}
+.cover{
+
+    height: 400px;
+    background-image: url("C:/Users/LAB-E/Downloads/Sitio_web-main (1)/Sitio_web-main/img/portada.jpeg");
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+} 
